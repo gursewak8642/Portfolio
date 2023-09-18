@@ -1,0 +1,61 @@
+.abouttext {
+
+    font-family: 'Mukta', sans-serif;
+    text-align: center;
+    padding-left: 10em;
+    padding-right: 10em;
+}
+
+.main-row {
+    margin: 8%;
+    background-color: white;
+    box-shadow: 0 0 10px 10px rgba(0, 0, 0, .05);
+    border-radius: 0.5rem;
+}
+
+.blogimg > img {
+    width: 100%;
+    height: 100%;
+    transform: translateY(-30px);
+    object-fit: cover;
+    border-radius: 2rem;
+    box-shadow: 0 0 8px 3px rgba(0, 0, 0, .3);
+}
+
+.blog-title > h3 {
+    font-style: normal;
+    font-weight: 400;
+}
+
+.blog-desc > p {
+    font-style: normal;
+    line-height: 2;
+}
+
+.att .container ul li a {
+    font-weight: bold;
+}
+
+.att .container ul li a:hover {
+    border: gainsboro;
+}
+
+.cli-img {
+    width: 100%;
+    height: 100%;
+    transform: translateY(-30px);
+    object-fit: cover;
+    border-radius: 2rem;
+    box-shadow: 0 0 8px 3px rgba(0, 0, 0, .3);
+}
+
+.cli-title > h3 {
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    padding-top: 2em;
+}
+
+.card a button:hover {
+    letter-spacing: 3px;
+}

@@ -1,0 +1,14 @@
+1.Secure Online Auction System	The main objective is to only valid user will have authority to bid and prevents from various frauds.	Product	HTML, CSS, DATABASE, PHP, JAVASCRIPT
+
+2.ONLINE TIFFIN SERVICE WEBSITE.	We have decided to work on a real life problem like many university student suffer for food living outside the campus. So we decided to make online tiffin service website through which people can order their daily food easily .	Any other (20 words)	HTML,JAVA SCRIPT,REACT,CSS,DBMS,PHP.
+
+3.CarDholo	To implement GPS location tracking for real GPS location tracking is used to track time status monitoring. To integrate appointment scheduling system in the car wash service mobile application.	Research paper	HTML, CSS, JScript, XAMPP, PHP
+
+4.Quiz Application development	The ‘MCQ Quiz Application’ project developed to overcome the time consuming problem of manual system. Apart from that in current system, checking the answer sheets after taking test, waste the examiners time, so this application will check the correct answer and save the examiner time and carry the examination in an effective manner. The users which are use this system don’t need to high computing knowledge and also system will inform them while entering invalid data.	Research paper	JavaXml/Css
+
+
+5.Website for a custom guitar maker	In this website the customers can select type of materials, colours, parts etc according to requirements.	Research paper	Html, Css, JavaScript, Node js, Mongo db, Figma
+
+6.Ecommerce Website Using React Js	Website	Research paper	1. HTML2. CSS3. REACT JS4. BOOTSTRAP5. JAVASCRIPT	Reshma(E4036)	Jasneet Kaur(E7747)	0
+
+7.Period	Period Tracker will be a web based project which will come in handy considering the female clients/ users. Not only will it keep a track of the regular menstrual cycle but will be having other features helpful in managing bodily hygiene, stress management and tips and information regarding that. Client / User need : In a country like India where menstrual cycle awareness is pretty low for many women in remote areas this project	Product	HTMLCSSJavaScriptReactJSNodeJS

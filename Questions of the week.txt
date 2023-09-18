@@ -1,0 +1,9 @@
+Questions of the week
+
+19/08/2022
+1.   https://practice.geeksforgeeks.org/problems/reverse-array-in-groups0255/1?page=1&category[]=Arrays&curated[]=1&sortBy=submissions
+2.   https://practice.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1?page=1&category[]=Arrays&curated[]=1&sortBy=submissions
+3.   https://practice.geeksforgeeks.org/problems/convert-array-into-zig-zag-fashion1638/1?page=1&category[]=Arrays&curated[]=1&sortBy=submissions
+4.   https://practice.geeksforgeeks.org/problems/minimize-the-sum-of-product1525/1?page=1&category[]=Arrays&curated[]=1&sortBy=submissions
+5.   https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1?page=1&category[]=Arrays&curated[]=1&sortBy=submissions
+

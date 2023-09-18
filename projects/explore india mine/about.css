@@ -1,0 +1,103 @@
+
+.colo{
+color: black;
+}
+.aboutimage {
+
+}
+
+.abouttext {
+    font-family: 'Mukta', sans-serif;
+text-align: center;
+    padding-left: 10em;
+    padding-right: 10em;
+}
+
+.cen {
+
+    font-style: normal;
+
+}
+
+.his {
+
+    font-style: normal;
+    text-align: center;
+    padding-top: 1em;
+    padding-left: 10em;
+    padding-right: 10em;
+}
+
+.main-row {
+    margin: 8%;
+    background-color: white;
+    box-shadow: 0 0 10px 10px rgba(0, 0, 0, .05);
+    border-radius: 0.5rem;
+}
+
+.blogimg > img {
+    width: 100%;
+    height: 100%;
+    transform: translateY(-30px);
+    object-fit: cover;
+    border-radius: 2rem;
+    box-shadow: 0 0 8px 3px rgba(0, 0, 0, .3);
+}
+
+.blog-title > h3 {
+    font-style: normal;
+    font-weight: 400;
+}
+
+.blog-desc > p {
+    font-style: normal;
+    line-height: 2;
+}
+
+.facts {
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    text-align: center;
+    padding-top: 2em;
+}
+
+.blog-desc {
+    padding-bottom: 0.5em;
+}
+
+.cli-img {
+    width: 100%;
+    height: 100%;
+    transform: translateY(-30px);
+    object-fit: cover;
+    border-radius: 2rem;
+    box-shadow: 0 0 8px 3px rgba(0, 0, 0, .3);
+}
+
+.cli-title > h3 {
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    padding-top: 2em;
+}
+.padd{
+    padding-left: 2.5rem;
+}
+.state{
+    background:gainsboro;
+}
+.classtitle{
+    color: black;
+    text-align: center;
+   font-family: 'Lato', sans-serif;
+}
+.UT{
+    background:gainsboro;
+}
+ <div class="col-md-3 col-12 pb-10em text-center" style="text-align: center">
+            <img src="bybus.jpg" style="width: 100px;height: 100px;">
+            <h5>Road</h5>
+            <p>
+
+                Andaman Express passes through major cities like New Delhi and Chennai.</p>
+        </div>
