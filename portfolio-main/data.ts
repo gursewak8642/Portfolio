@@ -14,7 +14,6 @@ import {
   SiUdemy,
   SiCoursera,
   SiCodeforces,
-  SiCodehelp,
   SiUbuntu,
   SiInfosys,
   SiCodechef,
