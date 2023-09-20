@@ -161,7 +161,7 @@ export const projects: IProject[] = [
     name: "J.B. Defence Electrical",
     description:
       "Designed and developed an online E-commerce website with features such as buy, add to cart, profile login, Registration. Multiple login access, scalable, attractive Ui with complete E-commerce website functions.",
-    image_path: "/images/JB Motors project.png ",
+    image_path: "/images/JB_Motors.png",
     deployed_url: "",
     github_url:  "",
     category: ["MERN"],
@@ -172,7 +172,7 @@ export const projects: IProject[] = [
     name: "Mera - India",
     description:
       "Developed Mera India website highlighting popular historical places with state/territory histories, promoting India’s Culture heritage Designed user-friendly platform with family and couple packages, facilitating trip planning and enhancing traveler experience.",
-    image_path: "/images/Mera India project.png",
+    image_path: "/images/Mera_India.png",
     //  image_path:"./public/images/DrumKit.jpg",
     deployed_url: "",
     github_url:"",
@@ -189,7 +189,7 @@ export const projects: IProject[] = [
     name: "Portfolio Website",
     description:
       "This Website is Created using Next.js, tailwind and TypeScript and a lot of Efforts in its UI and Responsiveness. ",
-    image_path: "/images/Portfolio project.png",
+    image_path: "/images/Portfolio.png",
     deployed_url: "",
     github_url: "",
     category: ["React"],
@@ -200,7 +200,7 @@ export const projects: IProject[] = [
     name: "Restro",
     description:
       "Designed and developed an online food ordering platform with features such as bill checking and multiple admin access. Built a user friendly and efficient system for ordering food and managing orders, enhancing the customer’s experience and enabling streamlined restaurant operations.",
-    image_path: "/images/Tasty food project.png",
+    image_path: "/images/Tasty_food.png",
     deployed_url: "",
     github_url:
       "",
@@ -212,7 +212,7 @@ export const projects: IProject[] = [
     name: "Calculator",
     description:
       "A React Based App for Calculation. We Can Calulate our Text as we want, like Addition, subtraction, Multiplication ,etc.",
-    image_path: "/images/calculator Project.png",
+    image_path: "/images/calculator.png",
     //  image_path:"./public/images/DrumKit.jpg",
     deployed_url:
       "",
