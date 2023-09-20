@@ -212,7 +212,7 @@ export const projects: IProject[] = [
     name: "Calculator",
     description:
       "A React Based App for Calculation. We Can Calulate our Text as we want, like Addition, subtraction, Multiplication ,etc.",
-    image_path: "/images/calculator.png",
+    image_path: "/images/calci.png",
     //  image_path:"./public/images/DrumKit.jpg",
     deployed_url:
       "",
